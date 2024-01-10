@@ -1,0 +1,100 @@
+Swain
+SNAGA:11 (3)
+SNAGA UDARCA:10 (6)
+PERCEPCIJA:8 (15)
+PRECIZNOST:7 (12)
+ŠULJANJE:12 (14)
+AGILNOST:9 (7)
+OTPORNOST:6 (6)
+IZDRŽLJIVOST:50HP
+*stats in brackets are used during Demonic Ascension
+**when he gains skill points he can expand 1 point for his normal form and one point for 
+his Ascended form
+
+Akcije: 1 akcija, 1 napad, 1 move
+
+Abilities:
+Death's Hand - Passive: Swain can collect soul fragments from fallen humanoids that contain a soul.
+Soul fragments permanently increase Swain's max health by 2 and heal him for the same ammount.
+
+Death's Hand - Raum's spectral hand grabs an enemy and pulls them into melee range. Performing this 
+ability grants Swain a Soul fragment. (always collects Soul Fragment, pull resisted by enemy OTPORNOST)
+Cooldown: X turns, cost: 1 akcija
+
+Demonic Ascension - Swain sacrifices half of his MAXIMUM HP to release his demon - Raum, 
+increasing his size, changing his shape and stats, and gaining the ability to hover above ground. 
+For the duration of X turns Swain syphons nearby enemies of their life force, regenerating 5% of his 
+max HP per turn per nearby enemy while damaging them for the same ammount. During his ascension he can 
+still use his abilities and weapons. (HP syphon has 1 movement range, cannot be resisted or avoided 
+if within range)
+Cooldown: X turns, duration: Y turns, cost: free
+
+Starting Gear: 
+
+
+---------------------------------------------------------------------------------------
+Pyke
+
+SNAGA:13
+SNAGA UDARCA:7
+PERCEPCIJA:10
+PRECIZNOST:8
+ŠULJANJE:8
+AGILNOST:6
+OTPORNOST:11
+IZDRŽLJIVOST:50HP
+
+Akcije: 2 move, 1 akcija
+
+Abilities: 
+Bone Skewer - Pyke throws his harpoon at the target within 1 movement range then pulls. If the target 
+does not resist the pull the target is pulled to Pyke into his melee range and he strikes it once 
+dealing his normal melee damage. If the target resists being pulled, Pyke instead dashes towards 
+and through the target without consuming movement or having to roll to move then stuns the target 
+for 1 turn. (SNAGA UDARCA to hit harpoon, enemy OTPORNOST to see outcome, harpoon needs to hit to
+get My Cut stack)
+Cooldown: 1 turn, cost: 1 akcija
+
+Death from Below - Passive: every assist (enemy dies by party members which Pyke has damaged or stunned
+in current combat) and a hit (resisted or not) of Bone Skewer grants Pyke a stack of My Cut. Stacks do 
+not expire.
+
+Death from Below - Pyke leaps towards a target within 1 movement and deals 
+(18-SNAGA UDARCA) * (1+My Cut stacks) damage to the target. (auto-hits, cannot be resisted)
+If this kills the target pyke keeps half of his My Cut stacks
+Cooldown: 4 turns, cost: 1 move
+
+Starting Gear: 
+The List
+
+---------------------------------------------------------------------------------------
+Arno
+
+SNAGA:12
+SNAGA UDARCA:8
+PERCEPCIJA:7
+PRECIZNOST:9
+ŠULJANJE:7
+AGILNOST:8
+OTPORNOST:12
+IZDRŽLJIVOST:50HP
+
+Akcije: 1 movement, 2 akcije
+
+Abilities:
+Assassin's Training - agility: Arno can climb twice as high for the cost of 1 movement. He can climb 
+without having to roll for success.
+
+Assassin's Training - stealth: Arno can use his AGILNOST or ŠULJANJE for sneaking undetected.
+
+Assassin's Training - reaper: Arno has increased stealth attack multipliers: 7x for daggers, 4x for 
+bows and swords, 3x for other one-handed weapons and 2x for two-handed weapons. Performing aerial 
+stealth attacks further doubles those stealth multipliers.
+
+Smoke bomb: Arno throws a bomb that engulfs the area in thick smoke. Smoke cuts all line of sight 
+through it and within it. Smoke lasts for 1 turn. Arno can immediately initiate stealth and will have
+same bonuses from Assassin's Training passive.
+Cooldown: 4 turns, duration: 1 turn, cost 1 akcija
+
+Starting Gear: 
+Broken hidden blade (broken off blade, mechanism still working)
